@@ -10,5 +10,5 @@
 2. Q2 — Parking Report Program
 3. Q3 — Scholarship Program
 4. Q4 — Heart Rate Program
-5. Q5 — Expense Tracker
+5. Q5 — Expense Tracker.
 
